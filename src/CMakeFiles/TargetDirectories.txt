@@ -1,0 +1,11 @@
+/home/kaushik/Desktop/MTP/AliasAnalysis/src/CMakeFiles/rebuild_cache.dir
+/home/kaushik/Desktop/MTP/AliasAnalysis/src/CMakeFiles/acc_gen.dir
+/home/kaushik/Desktop/MTP/AliasAnalysis/src/CMakeFiles/edit_cache.dir
+/home/kaushik/Desktop/MTP/AliasAnalysis/src/CMakeFiles/omp_gen.dir
+/home/kaushik/Desktop/MTP/AliasAnalysis/src/CMakeFiles/intrinsics_gen.dir
+/home/kaushik/Desktop/MTP/AliasAnalysis/src/lib/CMakeFiles/rebuild_cache.dir
+/home/kaushik/Desktop/MTP/AliasAnalysis/src/lib/CMakeFiles/edit_cache.dir
+/home/kaushik/Desktop/MTP/AliasAnalysis/src/lib/CMakeFiles/AliasAnalysis.dir
+/home/kaushik/Desktop/MTP/AliasAnalysis/src/src/CMakeFiles/rebuild_cache.dir
+/home/kaushik/Desktop/MTP/AliasAnalysis/src/src/CMakeFiles/edit_cache.dir
+/home/kaushik/Desktop/MTP/AliasAnalysis/src/src/CMakeFiles/AADriver.dir

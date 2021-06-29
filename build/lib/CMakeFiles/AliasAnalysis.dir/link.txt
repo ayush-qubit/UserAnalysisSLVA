@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libAliasAnalysis.so -o libAliasAnalysis.so CMakeFiles/AliasAnalysis.dir/FCSLVA.cpp.o   -L/usr/lib/llvm-12/lib  -Wl,-rpath,/usr/lib/llvm-12/lib:/usr/local/lib /usr/local/lib/libSpatial.so 
